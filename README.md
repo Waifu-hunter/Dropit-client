@@ -4,4 +4,4 @@
 
 ![](./.github/dropit.jpg)
 
-> inspired from eye candi babylon
+> inspired from eye candy babylon
